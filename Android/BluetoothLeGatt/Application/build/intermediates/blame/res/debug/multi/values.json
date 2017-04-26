@@ -1,0 +1,1147 @@
+[
+    {
+        "outputFile": "C:\\test for android\\Android\\BluetoothLeGatt\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 51,
+                    "endOffset": 102
+                },
+                "from": {
+                    "file": "C:\\Users\\Вика\\.android\\build-cache\\7297f387287384327f5c96367edc904380f53a9a\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 107,
+                    "endColumn": 69,
+                    "endOffset": 172
+                },
+                "from": {
+                    "file": "C:\\Users\\Вика\\.android\\build-cache\\7297f387287384327f5c96367edc904380f53a9a\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 177,
+                    "endLine": 6,
+                    "endColumn": 11,
+                    "endOffset": 305
+                },
+                "from": {
+                    "file": "C:\\Users\\Вика\\.android\\build-cache\\7297f387287384327f5c96367edc904380f53a9a\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 310,
+                    "endColumn": 67,
+                    "endOffset": 373
+                },
+                "from": {
+                    "file": "C:\\Users\\Вика\\.android\\build-cache\\7297f387287384327f5c96367edc904380f53a9a\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 378,
+                    "endLine": 10,
+                    "endColumn": 11,
+                    "endOffset": 502
+                },
+                "from": {
+                    "file": "C:\\Users\\Вика\\.android\\build-cache\\7297f387287384327f5c96367edc904380f53a9a\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 507,
+                    "endLine": 13,
+                    "endColumn": 11,
+                    "endOffset": 628
+                },
+                "from": {
+                    "file": "C:\\Users\\Вика\\.android\\build-cache\\7297f387287384327f5c96367edc904380f53a9a\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 633,
+                    "endColumn": 66,
+                    "endOffset": 695
+                },
+                "from": {
+                    "file": "C:\\Users\\Вика\\.android\\build-cache\\7297f387287384327f5c96367edc904380f53a9a\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 700,
+                    "endLine": 17,
+                    "endColumn": 11,
+                    "endOffset": 818
+                },
+                "from": {
+                    "file": "C:\\Users\\Вика\\.android\\build-cache\\7297f387287384327f5c96367edc904380f53a9a\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 823,
+                    "endLine": 20,
+                    "endColumn": 11,
+                    "endOffset": 943
+                },
+                "from": {
+                    "file": "C:\\Users\\Вика\\.android\\build-cache\\7297f387287384327f5c96367edc904380f53a9a\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 948,
+                    "endColumn": 66,
+                    "endOffset": 1010
+                },
+                "from": {
+                    "file": "C:\\Users\\Вика\\.android\\build-cache\\7297f387287384327f5c96367edc904380f53a9a\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1015,
+                    "endColumn": 64,
+                    "endOffset": 1075
+                },
+                "from": {
+                    "file": "C:\\Users\\Вика\\.android\\build-cache\\7297f387287384327f5c96367edc904380f53a9a\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1080,
+                    "endColumn": 64,
+                    "endOffset": 1140
+                },
+                "from": {
+                    "file": "C:\\Users\\Вика\\.android\\build-cache\\7297f387287384327f5c96367edc904380f53a9a\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1145,
+                    "endLine": 27,
+                    "endColumn": 11,
+                    "endOffset": 1280
+                },
+                "from": {
+                    "file": "C:\\Users\\Вика\\.android\\build-cache\\7297f387287384327f5c96367edc904380f53a9a\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1285,
+                    "endColumn": 65,
+                    "endOffset": 1346
+                },
+                "from": {
+                    "file": "C:\\Users\\Вика\\.android\\build-cache\\7297f387287384327f5c96367edc904380f53a9a\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1351,
+                    "endColumn": 65,
+                    "endOffset": 1412
+                },
+                "from": {
+                    "file": "C:\\Users\\Вика\\.android\\build-cache\\7297f387287384327f5c96367edc904380f53a9a\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1417,
+                    "endColumn": 66,
+                    "endOffset": 1479
+                },
+                "from": {
+                    "file": "C:\\Users\\Вика\\.android\\build-cache\\7297f387287384327f5c96367edc904380f53a9a\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1484,
+                    "endLine": 35,
+                    "endColumn": 11,
+                    "endOffset": 1689
+                },
+                "from": {
+                    "file": "C:\\Users\\Вика\\.android\\build-cache\\7297f387287384327f5c96367edc904380f53a9a\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1694,
+                    "endColumn": 68,
+                    "endOffset": 1758
+                },
+                "from": {
+                    "file": "C:\\Users\\Вика\\.android\\build-cache\\7297f387287384327f5c96367edc904380f53a9a\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1763,
+                    "endColumn": 65,
+                    "endOffset": 1824
+                },
+                "from": {
+                    "file": "C:\\Users\\Вика\\.android\\build-cache\\7297f387287384327f5c96367edc904380f53a9a\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 1829,
+                    "endLine": 40,
+                    "endColumn": 11,
+                    "endOffset": 1949
+                },
+                "from": {
+                    "file": "C:\\Users\\Вика\\.android\\build-cache\\7297f387287384327f5c96367edc904380f53a9a\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 1954,
+                    "endLine": 43,
+                    "endColumn": 11,
+                    "endOffset": 2075
+                },
+                "from": {
+                    "file": "C:\\Users\\Вика\\.android\\build-cache\\7297f387287384327f5c96367edc904380f53a9a\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 2080,
+                    "endColumn": 66,
+                    "endOffset": 2142
+                },
+                "from": {
+                    "file": "C:\\Users\\Вика\\.android\\build-cache\\7297f387287384327f5c96367edc904380f53a9a\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 2147,
+                    "endLine": 47,
+                    "endColumn": 11,
+                    "endOffset": 2268
+                },
+                "from": {
+                    "file": "C:\\Users\\Вика\\.android\\build-cache\\7297f387287384327f5c96367edc904380f53a9a\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 2273,
+                    "endLine": 50,
+                    "endColumn": 11,
+                    "endOffset": 2395
+                },
+                "from": {
+                    "file": "C:\\Users\\Вика\\.android\\build-cache\\7297f387287384327f5c96367edc904380f53a9a\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 2400,
+                    "endLine": 53,
+                    "endColumn": 11,
+                    "endOffset": 2520
+                },
+                "from": {
+                    "file": "C:\\Users\\Вика\\.android\\build-cache\\7297f387287384327f5c96367edc904380f53a9a\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 2525,
+                    "endLine": 56,
+                    "endColumn": 11,
+                    "endOffset": 2647
+                },
+                "from": {
+                    "file": "C:\\Users\\Вика\\.android\\build-cache\\7297f387287384327f5c96367edc904380f53a9a\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 2652,
+                    "endColumn": 64,
+                    "endOffset": 2712
+                },
+                "from": {
+                    "file": "C:\\Users\\Вика\\.android\\build-cache\\7297f387287384327f5c96367edc904380f53a9a\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 2717,
+                    "endLine": 60,
+                    "endColumn": 11,
+                    "endOffset": 2838
+                },
+                "from": {
+                    "file": "C:\\Users\\Вика\\.android\\build-cache\\7297f387287384327f5c96367edc904380f53a9a\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 2843,
+                    "endLine": 63,
+                    "endColumn": 11,
+                    "endOffset": 2961
+                },
+                "from": {
+                    "file": "C:\\Users\\Вика\\.android\\build-cache\\7297f387287384327f5c96367edc904380f53a9a\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 2966,
+                    "endColumn": 64,
+                    "endOffset": 3026
+                },
+                "from": {
+                    "file": "C:\\Users\\Вика\\.android\\build-cache\\7297f387287384327f5c96367edc904380f53a9a\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 3031,
+                    "endLine": 69,
+                    "endColumn": 11,
+                    "endOffset": 3234
+                },
+                "from": {
+                    "file": "C:\\Users\\Вика\\.android\\build-cache\\7297f387287384327f5c96367edc904380f53a9a\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 3239,
+                    "endColumn": 66,
+                    "endOffset": 3301
+                },
+                "from": {
+                    "file": "C:\\Users\\Вика\\.android\\build-cache\\7297f387287384327f5c96367edc904380f53a9a\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 3306,
+                    "endLine": 74,
+                    "endColumn": 11,
+                    "endOffset": 3440
+                },
+                "from": {
+                    "file": "C:\\Users\\Вика\\.android\\build-cache\\7297f387287384327f5c96367edc904380f53a9a\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 3445,
+                    "endColumn": 64,
+                    "endOffset": 3505
+                },
+                "from": {
+                    "file": "C:\\Users\\Вика\\.android\\build-cache\\7297f387287384327f5c96367edc904380f53a9a\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 3510,
+                    "endColumn": 64,
+                    "endOffset": 3570
+                },
+                "from": {
+                    "file": "C:\\Users\\Вика\\.android\\build-cache\\7297f387287384327f5c96367edc904380f53a9a\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 3575,
+                    "endColumn": 61,
+                    "endOffset": 3632
+                },
+                "from": {
+                    "file": "C:\\Users\\Вика\\.android\\build-cache\\7297f387287384327f5c96367edc904380f53a9a\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 3637,
+                    "endColumn": 61,
+                    "endOffset": 3694
+                },
+                "from": {
+                    "file": "C:\\Users\\Вика\\.android\\build-cache\\7297f387287384327f5c96367edc904380f53a9a\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 3699,
+                    "endColumn": 61,
+                    "endOffset": 3756
+                },
+                "from": {
+                    "file": "C:\\Users\\Вика\\.android\\build-cache\\7297f387287384327f5c96367edc904380f53a9a\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 3761,
+                    "endColumn": 58,
+                    "endOffset": 3815
+                },
+                "from": {
+                    "file": "C:\\Users\\Вика\\.android\\build-cache\\7297f387287384327f5c96367edc904380f53a9a\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 3820,
+                    "endColumn": 59,
+                    "endOffset": 3875
+                },
+                "from": {
+                    "file": "C:\\Users\\Вика\\.android\\build-cache\\7297f387287384327f5c96367edc904380f53a9a\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 3880,
+                    "endColumn": 60,
+                    "endOffset": 3936
+                },
+                "from": {
+                    "file": "C:\\Users\\Вика\\.android\\build-cache\\7297f387287384327f5c96367edc904380f53a9a\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 3941,
+                    "endColumn": 60,
+                    "endOffset": 3997
+                },
+                "from": {
+                    "file": "C:\\Users\\Вика\\.android\\build-cache\\7297f387287384327f5c96367edc904380f53a9a\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 4002,
+                    "endColumn": 58,
+                    "endOffset": 4056
+                },
+                "from": {
+                    "file": "C:\\Users\\Вика\\.android\\build-cache\\7297f387287384327f5c96367edc904380f53a9a\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 4061,
+                    "endLine": 90,
+                    "endColumn": 11,
+                    "endOffset": 4265
+                },
+                "from": {
+                    "file": "C:\\Users\\Вика\\.android\\build-cache\\7297f387287384327f5c96367edc904380f53a9a\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 4270,
+                    "endColumn": 60,
+                    "endOffset": 4326
+                },
+                "from": {
+                    "file": "C:\\Users\\Вика\\.android\\build-cache\\31c62280987b1b80fce6e5de3347c2dc88ba5b1d\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 4331,
+                    "endColumn": 61,
+                    "endOffset": 4388
+                },
+                "from": {
+                    "file": "C:\\Users\\Вика\\.android\\build-cache\\31c62280987b1b80fce6e5de3347c2dc88ba5b1d\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 4393,
+                    "endColumn": 61,
+                    "endOffset": 4450
+                },
+                "from": {
+                    "file": "C:\\Users\\Вика\\.android\\build-cache\\31c62280987b1b80fce6e5de3347c2dc88ba5b1d\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 4455,
+                    "endColumn": 63,
+                    "endOffset": 4514
+                },
+                "from": {
+                    "file": "C:\\Users\\Вика\\.android\\build-cache\\31c62280987b1b80fce6e5de3347c2dc88ba5b1d\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 10331,
+                    "endColumn": 58,
+                    "endOffset": 10385
+                },
+                "from": {
+                    "file": "C:\\Users\\Вика\\.android\\build-cache\\31c62280987b1b80fce6e5de3347c2dc88ba5b1d\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 10390,
+                    "endColumn": 56,
+                    "endOffset": 10442
+                },
+                "from": {
+                    "file": "C:\\Users\\Вика\\.android\\build-cache\\31c62280987b1b80fce6e5de3347c2dc88ba5b1d\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 10447,
+                    "endColumn": 53,
+                    "endOffset": 10496
+                },
+                "from": {
+                    "file": "C:\\Users\\Вика\\.android\\build-cache\\31c62280987b1b80fce6e5de3347c2dc88ba5b1d\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 10501,
+                    "endColumn": 69,
+                    "endOffset": 10566
+                },
+                "from": {
+                    "file": "C:\\test for android\\Android\\BluetoothLeGatt\\Application\\src\\main\\res\\values\\template-dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 10571,
+                    "endColumn": 42,
+                    "endOffset": 10609
+                },
+                "from": {
+                    "file": "C:\\test for android\\Android\\BluetoothLeGatt\\Application\\src\\main\\res\\values\\template-dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 10614,
+                    "endColumn": 43,
+                    "endOffset": 10653
+                },
+                "from": {
+                    "file": "C:\\test for android\\Android\\BluetoothLeGatt\\Application\\src\\main\\res\\values\\template-dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 10658,
+                    "endColumn": 44,
+                    "endOffset": 10698
+                },
+                "from": {
+                    "file": "C:\\test for android\\Android\\BluetoothLeGatt\\Application\\src\\main\\res\\values\\template-dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 10703,
+                    "endColumn": 42,
+                    "endOffset": 10741
+                },
+                "from": {
+                    "file": "C:\\test for android\\Android\\BluetoothLeGatt\\Application\\src\\main\\res\\values\\template-dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 10746,
+                    "endColumn": 41,
+                    "endOffset": 10783
+                },
+                "from": {
+                    "file": "C:\\test for android\\Android\\BluetoothLeGatt\\Application\\src\\main\\res\\values\\template-dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 10788,
+                    "endColumn": 67,
+                    "endOffset": 10851
+                },
+                "from": {
+                    "file": "C:\\test for android\\Android\\BluetoothLeGatt\\Application\\src\\main\\res\\values\\template-dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 10856,
+                    "endColumn": 44,
+                    "endOffset": 10896
+                },
+                "from": {
+                    "file": "C:\\test for android\\Android\\BluetoothLeGatt\\Application\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 10901,
+                    "endColumn": 52,
+                    "endOffset": 10949
+                },
+                "from": {
+                    "file": "C:\\test for android\\Android\\BluetoothLeGatt\\Application\\src\\main\\res\\values\\base-strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 10954,
+                    "endColumn": 60,
+                    "endOffset": 11010
+                },
+                "from": {
+                    "file": "C:\\test for android\\Android\\BluetoothLeGatt\\Application\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 11015,
+                    "endColumn": 66,
+                    "endOffset": 11077
+                },
+                "from": {
+                    "file": "C:\\test for android\\Android\\BluetoothLeGatt\\Application\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 11082,
+                    "endColumn": 47,
+                    "endOffset": 11125
+                },
+                "from": {
+                    "file": "C:\\test for android\\Android\\BluetoothLeGatt\\Application\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 11130,
+                    "endColumn": 47,
+                    "endOffset": 11173
+                },
+                "from": {
+                    "file": "C:\\test for android\\Android\\BluetoothLeGatt\\Application\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 11178,
+                    "endColumn": 53,
+                    "endOffset": 11227
+                },
+                "from": {
+                    "file": "C:\\test for android\\Android\\BluetoothLeGatt\\Application\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 11232,
+                    "endColumn": 57,
+                    "endOffset": 11285
+                },
+                "from": {
+                    "file": "C:\\test for android\\Android\\BluetoothLeGatt\\Application\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 11290,
+                    "endColumn": 86,
+                    "endOffset": 11372
+                },
+                "from": {
+                    "file": "C:\\test for android\\Android\\BluetoothLeGatt\\Application\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 11377,
+                    "endColumn": 53,
+                    "endOffset": 11426
+                },
+                "from": {
+                    "file": "C:\\test for android\\Android\\BluetoothLeGatt\\Application\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 11431,
+                    "endColumn": 82,
+                    "endOffset": 11509
+                },
+                "from": {
+                    "file": "C:\\test for android\\Android\\BluetoothLeGatt\\Application\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 11514,
+                    "endLine": 130,
+                    "endColumn": 13,
+                    "endOffset": 11773
+                },
+                "from": {
+                    "file": "C:\\test for android\\Android\\BluetoothLeGatt\\Application\\src\\main\\res\\values\\base-strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 131,
+                    "startColumn": 4,
+                    "startOffset": 11778,
+                    "endColumn": 44,
+                    "endOffset": 11818
+                },
+                "from": {
+                    "file": "C:\\test for android\\Android\\BluetoothLeGatt\\Application\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 11823,
+                    "endColumn": 64,
+                    "endOffset": 11883
+                },
+                "from": {
+                    "file": "C:\\test for android\\Android\\BluetoothLeGatt\\Application\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 133,
+                    "startColumn": 4,
+                    "startOffset": 11888,
+                    "endColumn": 46,
+                    "endOffset": 11930
+                },
+                "from": {
+                    "file": "C:\\test for android\\Android\\BluetoothLeGatt\\Application\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 134,
+                    "startColumn": 4,
+                    "startOffset": 11935,
+                    "endColumn": 48,
+                    "endOffset": 11979
+                },
+                "from": {
+                    "file": "C:\\test for android\\Android\\BluetoothLeGatt\\Application\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 135,
+                    "startColumn": 4,
+                    "startOffset": 11984,
+                    "endColumn": 54,
+                    "endOffset": 12034
+                },
+                "from": {
+                    "file": "C:\\test for android\\Android\\BluetoothLeGatt\\Application\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 136,
+                    "startColumn": 4,
+                    "startOffset": 12039,
+                    "endColumn": 42,
+                    "endOffset": 12077
+                },
+                "from": {
+                    "file": "C:\\test for android\\Android\\BluetoothLeGatt\\Application\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 137,
+                    "startColumn": 4,
+                    "startOffset": 12082,
+                    "endColumn": 42,
+                    "endOffset": 12120
+                },
+                "from": {
+                    "file": "C:\\test for android\\Android\\BluetoothLeGatt\\Application\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 138,
+                    "startColumn": 4,
+                    "startOffset": 12125,
+                    "endColumn": 43,
+                    "endOffset": 12164
+                },
+                "from": {
+                    "file": "C:\\test for android\\Android\\BluetoothLeGatt\\Application\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 139,
+                    "startColumn": 4,
+                    "startOffset": 12169,
+                    "endColumn": 67,
+                    "endOffset": 12232
+                },
+                "from": {
+                    "file": "C:\\test for android\\Android\\BluetoothLeGatt\\Application\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 140,
+                    "startColumn": 4,
+                    "startOffset": 12237,
+                    "endColumn": 64,
+                    "endOffset": 12297
+                },
+                "from": {
+                    "file": "C:\\test for android\\Android\\BluetoothLeGatt\\Application\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 141,
+                    "startColumn": 4,
+                    "startOffset": 12302,
+                    "endColumn": 57,
+                    "endOffset": 12355
+                },
+                "from": {
+                    "file": "C:\\test for android\\Android\\BluetoothLeGatt\\Application\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 142,
+                    "startColumn": 4,
+                    "startOffset": 12360,
+                    "endColumn": 73,
+                    "endOffset": 12429
+                },
+                "from": {
+                    "file": "C:\\test for android\\Android\\BluetoothLeGatt\\Application\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 143,
+                    "startColumn": 4,
+                    "startOffset": 12434,
+                    "endColumn": 57,
+                    "endOffset": 12487
+                },
+                "from": {
+                    "file": "C:\\test for android\\Android\\BluetoothLeGatt\\Application\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 144,
+                    "startColumn": 4,
+                    "startOffset": 12492,
+                    "endColumn": 59,
+                    "endOffset": 12547
+                },
+                "from": {
+                    "file": "C:\\test for android\\Android\\BluetoothLeGatt\\Application\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 145,
+                    "startColumn": 4,
+                    "startOffset": 12552,
+                    "endColumn": 50,
+                    "endOffset": 12598
+                },
+                "from": {
+                    "file": "C:\\test for android\\Android\\BluetoothLeGatt\\Application\\src\\main\\res\\values\\template-styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 146,
+                    "startColumn": 4,
+                    "startOffset": 12603,
+                    "endLine": 153,
+                    "endColumn": 12,
+                    "endOffset": 13064
+                },
+                "from": {
+                    "file": "C:\\Users\\Вика\\.android\\build-cache\\31c62280987b1b80fce6e5de3347c2dc88ba5b1d\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 154,
+                    "startColumn": 4,
+                    "startOffset": 13069,
+                    "endLine": 156,
+                    "endColumn": 12,
+                    "endOffset": 13190
+                },
+                "from": {
+                    "file": "C:\\Users\\Вика\\.android\\build-cache\\31c62280987b1b80fce6e5de3347c2dc88ba5b1d\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 157,
+                    "startColumn": 4,
+                    "startOffset": 13195,
+                    "endLine": 159,
+                    "endColumn": 12,
+                    "endOffset": 13318
+                },
+                "from": {
+                    "file": "C:\\Users\\Вика\\.android\\build-cache\\31c62280987b1b80fce6e5de3347c2dc88ba5b1d\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 160,
+                    "startColumn": 4,
+                    "startOffset": 13323,
+                    "endColumn": 59,
+                    "endOffset": 13378
+                },
+                "from": {
+                    "file": "C:\\test for android\\Android\\BluetoothLeGatt\\Application\\src\\main\\res\\values\\template-styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 161,
+                    "startColumn": 4,
+                    "startOffset": 13383,
+                    "endColumn": 52,
+                    "endOffset": 13431
+                },
+                "from": {
+                    "file": "C:\\test for android\\Android\\BluetoothLeGatt\\Application\\src\\main\\res\\values\\template-styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 162,
+                    "startColumn": 4,
+                    "startOffset": 13436,
+                    "endColumn": 26,
+                    "endOffset": 13458
+                },
+                "from": {
+                    "file": "C:\\test for android\\Android\\BluetoothLeGatt\\Application\\src\\main\\res\\values\\template-styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 163,
+                    "startColumn": 4,
+                    "startOffset": 13463,
+                    "endLine": 166,
+                    "endColumn": 12,
+                    "endOffset": 13654
+                },
+                "from": {
+                    "file": "C:\\test for android\\Android\\BluetoothLeGatt\\Application\\src\\main\\res\\values\\template-styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 167,
+                    "startColumn": 4,
+                    "startOffset": 13659,
+                    "endLine": 172,
+                    "endColumn": 12,
+                    "endOffset": 13932
+                },
+                "from": {
+                    "file": "C:\\test for android\\Android\\BluetoothLeGatt\\Application\\src\\main\\res\\values\\template-styles.xml"
+                }
+            }
+        ]
+    }
+]

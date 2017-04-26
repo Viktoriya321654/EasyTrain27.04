@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\test for android\Android\BluetoothLeGatt\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\test for android\Android\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_d16340a270fbcdcaf5120439b2896808080f78dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Вика\.android\build-cache\579b008faf5dc97a8c8872f6cafac436681d43ed\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="987adec819c9a98faf215814f41195da48fc724e">
+        <dex dex="C:\test for android\Android\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\classes_af94ca0e50a2fb15dd8a618fe56b4c9b261e534f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\test for android\Android\BluetoothLeGatt\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a4b2dae541f4f93dd17ec1d8eb0f33b5959ca09a">
+        <dex dex="C:\test for android\Android\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_20f36493d9fee36c12e555b7248219e3c13846d8\classes.dex" />
+    </item>
+
+</items>

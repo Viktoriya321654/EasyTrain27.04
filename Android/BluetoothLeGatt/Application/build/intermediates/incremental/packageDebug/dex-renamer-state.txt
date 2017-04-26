@@ -1,0 +1,7 @@
+#Thu Apr 27 00:09:19 MSK 2017
+base.0=C\:\\test for android\\Android\\BluetoothLeGatt\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d16340a270fbcdcaf5120439b2896808080f78dd
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\test for android\\Android\\BluetoothLeGatt\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_20f36493d9fee36c12e555b7248219e3c13846d8\\classes.dex
+base.1=C\:\\test for android\\Android\\BluetoothLeGatt\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_20f36493d9fee36c12e555b7248219e3c13846d8
+file.0=C\:\\test for android\\Android\\BluetoothLeGatt\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d16340a270fbcdcaf5120439b2896808080f78dd\\classes.dex
